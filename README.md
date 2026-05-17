@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gmbh one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,116 domains · **Median ask:** $48.35 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/gmbh`  
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | tips.gmbh     | available | $47.99    | —             | 80             | 26     | 4      | name.com  |
 | Acup.gmbh     | available | $56.98    | —             | 80             | 5      | 5      | namecheap |
-| getup.gmbh    | available | $47.99    | —             | 82             | 14     | 6      | name.com  |
+| getup.gmbh    | available | $47.99    | —             | 82             | 15     | 6      | name.com  |
 | Apples.gmbh   | available | $56.98    | —             | 90             | 16     | 6      | namecheap |
 | stirup.gmbh   | available | $47.99    | —             | 82             | 3      | 7      | name.com  |
 | dogsick.gmbh  | available | $47.99    | —             | 90             | 1      | 7      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GMBH One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GMBH One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
