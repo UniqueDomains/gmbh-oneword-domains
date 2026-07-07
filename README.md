@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .gmbh one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,116 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,116 domains · **Median ask:** $48.35 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,116 domains · **Median ask:** $47.15 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/gmbh`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/gmbh`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GMBH one-word domain 
 
 ### Files
 
-- `gmbh.csv` — public CSV extract (1,000 rows)
-- `gmbh.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `gmbh.csv`, public CSV extract (1,000 rows)
+- `gmbh.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| tips.gmbh     | available | $47.99    | —             | 80             | 26     | 4      | name.com  |
-| Acup.gmbh     | available | $56.98    | —             | 80             | 5      | 5      | namecheap |
-| getup.gmbh    | available | $47.99    | —             | 82             | 15     | 6      | name.com  |
-| Apples.gmbh   | available | $56.98    | —             | 90             | 16     | 6      | namecheap |
-| stirup.gmbh   | available | $47.99    | —             | 82             | 3      | 7      | name.com  |
-| dogsick.gmbh  | available | $47.99    | —             | 90             | 1      | 7      | name.com  |
-| messages.gmbh | available | $45.99    | $45.99        | 80             | 16     | 8      | namesilo  |
-| skills.gmbh   | available | $47.99    | —             | 58             | 47     | 6      | name.com  |
-| prompts.gmbh  | available | $45.99    | $45.99        | 54             | 39     | 7      | namesilo  |
-| justin.gmbh   | available | $47.99    | —             | 58             | 38     | 7      | name.com  |
-| trends.gmbh   | available | $47.99    | —             | 60             | 32     | 6      | name.com  |
-| letsgo.gmbh   | available | $47.99    | —             | 57             | 31     | 7      | name.com  |
-| maps.gmbh     | available | $47.99    | —             | 56             | 31     | 4      | name.com  |
-| spaces.gmbh   | available | $47.99    | —             | 54             | 30     | 6      | name.com  |
-| videos.gmbh   | available | $47.99    | —             | 52             | 30     | 6      | name.com  |
-| SanDiego.gmbh | available | $45.99    | $45.99        | 74             | 29     | 9      | namesilo  |
-| heroes.gmbh   | available | $47.99    | —             | 68             | 29     | 6      | name.com  |
-| blocks.gmbh   | available | $47.99    | —             | 53             | 29     | 6      | name.com  |
-| Jim.gmbh      | available | $56.98    | —             | 78             | 28     | 3      | namecheap |
-| pages.gmbh    | available | $47.99    | —             | 52             | 28     | 5      | name.com  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
+| add.gmbh    | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                       |
+| book.gmbh   | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc.                |
+| tech.gmbh   | premium   | $250      | —             | high           | medium | 4      | name.com                       |
+| any.gmbh    | available | $47.99    | —             | high           | medium | 3      | name.com                       |
+| poker.gmbh  | resell    | —         | —             | high           | medium | 5      | Soluciones Corporativas IP, SL |
+| cheap.gmbh  | premium   | $242      | $242          | high           | low    | 5      | namesilo                       |
+| bae.gmbh    | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                       |
+| clear.gmbh  | premium   | $45.99    | $45.99        | high           | medium | 5      | namesilo                       |
+| Eid.gmbh    | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                       |
+| event.gmbh  | premium   | $260      | $260          | high           | medium | 5      | namecheap                      |
+| hot.gmbh    | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                       |
+| global.gmbh | premium   | $242      | $242          | high           | medium | 6      | namesilo                       |
+| IDK.gmbh    | available | $45.99    | $45.99        | medium         | low    | 3      | namesilo                       |
+| ill.gmbh    | available | $45.99    | $45.99        | medium         | low    | 3      | namesilo                       |
+| LLP.gmbh    | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                       |
+| low.gmbh    | available | $47.99    | $52.99        | high           | low    | 3      | name.com                       |
+| odd.gmbh    | available | $47.99    | $52.99        | high           | low    | 3      | name.com                       |
+| rip.gmbh    | available | $45.99    | $45.99        | medium         | low    | 3      | namesilo                       |
+| two.gmbh    | available | $47.99    | $52.99        | high           | low    | 3      | name.com                       |
+| won.gmbh    | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is focused entirely on one-word .gmbh domains. The names range from dictionary-style words such as tips.gmbh, girls.gmbh, finals.gmbh, and jewels.gmbh to shorter coined terms like Acup.gmbh and barup.gmbh. For founders, the main question is whether the word is memorable, clear in spoken use, and specific enough to support a credible company identity. For investors, the key check is whether the word has broad commercial meaning and enough resale appeal relative to the ask. With a median ask of 48.35, pricing is accessible, but quality will vary widely by clarity, breadth, and legal risk.
+This selection includes 12,116 one-word domain names registered under the .GMBH extension, drawn from everyday vocabulary — words like tips, whitewater, and getlucky rendered as single unbroken strings. The median asking price across this set is about $47, making most names accessible for quick evaluation and comparison. Because .GMBH is a smaller, less mainstream extension, many of these strings remain available even though the same word may already be taken on more competitive extensions. When comparing these domains, prioritize spelling clarity, pronounceability, and how the word functions as a standalone brand or descriptor, since .GMBH carries less default trust signal than country-neutral or generic extensions.
 
-- Favor clear words with broad commercial meaning.
-- Check if the word is easy to say and spell aloud.
-- Compare ask prices against the word's resale flexibility.
-- Avoid words that may carry trademark conflict risk.
+- 12,116 one-word .GMBH domain names in this selection
+- Median asking price near $47 across the set
+- Everyday words and phrases, no hyphens or numbers
+- Smaller extension with more available one-word strings
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GMBH One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GMBH One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
