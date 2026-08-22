@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gmbh one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,589 domains · **Median ask:** $46.81 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/gmbh`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| half.gmbh   | available | $45.99    | $45.99        | high           | low    | 4      | namesilo                       |
 | add.gmbh    | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                       |
 | book.gmbh   | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc.                |
 | tech.gmbh   | premium   | $250      | —             | high           | medium | 4      | name.com                       |
@@ -84,6 +83,7 @@ print(df.head())
 | ill.gmbh    | available | $45.99    | $45.99        | medium         | low    | 3      | namesilo                       |
 | LLP.gmbh    | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                       |
 | low.gmbh    | available | $47.99    | $52.99        | high           | low    | 3      | name.com                       |
+| odd.gmbh    | available | $47.99    | $52.99        | high           | low    | 3      | name.com                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GMBH One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GMBH One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
