@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gmbh one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,684 domains · **Median ask:** $46.79 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/gmbh`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| add.gmbh    | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                       |
-| book.gmbh   | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc.                |
-| tech.gmbh   | premium   | $250      | —             | high           | medium | 4      | name.com                       |
-| any.gmbh    | available | $47.99    | —             | high           | medium | 3      | name.com                       |
-| poker.gmbh  | resell    | —         | —             | high           | medium | 5      | Soluciones Corporativas IP, SL |
-| cheap.gmbh  | premium   | $242      | $242          | high           | low    | 5      | namesilo                       |
-| bae.gmbh    | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                       |
-| clear.gmbh  | premium   | $45.99    | $45.99        | high           | medium | 5      | namesilo                       |
-| clx.gmbh    | available | $45.99    | $45.99        | low            | low    | 3      | namesilo                       |
-| event.gmbh  | premium   | $260      | $260          | high           | medium | 5      | namecheap                      |
-| cxl.gmbh    | available | $45.99    | $45.99        | low            | low    | 3      | namesilo                       |
-| global.gmbh | premium   | $242      | $242          | high           | medium | 6      | namesilo                       |
-| Eid.gmbh    | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                       |
-| hot.gmbh    | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                       |
-| IDK.gmbh    | available | $45.99    | $45.99        | medium         | low    | 3      | namesilo                       |
-| iii.gmbh    | available | $45.99    | $45.99        | low            | low    | 3      | namesilo                       |
-| ill.gmbh    | available | $45.99    | $45.99        | medium         | low    | 3      | namesilo                       |
-| LLP.gmbh    | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                       |
-| low.gmbh    | available | $47.99    | $52.99        | high           | low    | 3      | name.com                       |
-| odd.gmbh    | available | $47.99    | $52.99        | high           | low    | 3      | name.com                       |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
+| half.gmbh    | available | $45.99    | $45.99        | high           | low    | 4      | namesilo                       |
+| heavy.gmbh   | available | $47.99    | —             | high           | low    | 5      | name.com                       |
+| YouTube.gmbh | available | —         | —             | high           | medium | 7      | —                              |
+| add.gmbh     | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                       |
+| book.gmbh    | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc.                |
+| tech.gmbh    | premium   | $250      | —             | high           | medium | 4      | name.com                       |
+| any.gmbh     | available | $47.99    | —             | high           | medium | 3      | name.com                       |
+| poker.gmbh   | resell    | —         | —             | high           | medium | 5      | Soluciones Corporativas IP, SL |
+| cheap.gmbh   | premium   | $242      | $242          | high           | low    | 5      | namesilo                       |
+| bae.gmbh     | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                       |
+| clear.gmbh   | premium   | $45.99    | $45.99        | high           | medium | 5      | namesilo                       |
+| clx.gmbh     | available | $45.99    | $45.99        | low            | low    | 3      | namesilo                       |
+| event.gmbh   | premium   | $260      | $260          | high           | medium | 5      | namecheap                      |
+| cxl.gmbh     | available | $45.99    | $45.99        | low            | low    | 3      | namesilo                       |
+| global.gmbh  | premium   | $242      | $242          | high           | medium | 6      | namesilo                       |
+| Eid.gmbh     | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                       |
+| hot.gmbh     | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                       |
+| IDK.gmbh     | available | $45.99    | $45.99        | medium         | low    | 3      | namesilo                       |
+| iii.gmbh     | available | $45.99    | $45.99        | low            | low    | 3      | namesilo                       |
+| ill.gmbh     | available | $45.99    | $45.99        | medium         | low    | 3      | namesilo                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GMBH One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GMBH One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
