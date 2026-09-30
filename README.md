@@ -1,10 +1,10 @@
-# Available .GMBH One-Word Domains (25,505)
+# Available .GMBH One-Word Domains (27,646)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C505%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C646%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .gmbh one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,505 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,646 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,505 domains · **Median ask:** $45.81 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 27,646 domains · **Median ask:** $45.25 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/gmbh`
 **Best for:** founders, investors, studios
 
@@ -65,23 +65,23 @@ print(df.head())
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
 | ani.gmbh        | available | $47.98    | $56.98        | high           | low    | 3      | namecheap  |
-| social.gmbh     | premium   | $242      | $242          | high           | medium | 6      | namesilo   |
-| bee.gmbh        | available | $37.32    | $37.32        | high           | medium | 3      | dynadot    |
-| automobile.gmbh | premium   | $207.20   | $207.20       | high           | low    | 10     | spaceship  |
+| blog.gmbh       | premium   | $207.20   | $207.20       | high           | medium | 4      | spaceship  |
 | crc.gmbh        | available | $35.20    | $35.20        | high           | low    | 3      | cloudflare |
+| social.gmbh     | premium   | $242      | $242          | high           | medium | 6      | namesilo   |
 | dry.gmbh        | available | $47.98    | $56.98        | high           | low    | 3      | namecheap  |
+| automobile.gmbh | premium   | $207.20   | $207.20       | high           | low    | 10     | spaceship  |
 | egg.gmbh        | available | $35.20    | $35.20        | high           | low    | 3      | cloudflare |
 | fey.gmbh        | available | $45.99    | $45.99        | medium         | low    | 3      | namesilo   |
 | gia.gmbh        | available | $47.98    | $56.98        | high           | low    | 3      | namecheap  |
 | has.gmbh        | available | $45.99    | $45.99        | high           | low    | 3      | namesilo   |
-| joy.gmbh        | available | $45.99    | $45.99        | high           | medium | 3      | namesilo   |
-| lan.gmbh        | available | $45.99    | $45.99        | high           | low    | 3      | namesilo   |
+| ias.gmbh        | available | $35.20    | $35.20        | high           | low    | 3      | cloudflare |
+| joy.gmbh        | available | $36.43    | $36.43        | high           | medium | 3      | spaceship  |
+| lan.gmbh        | available | $89.99    | $89.99        | high           | low    | 3      | godaddy    |
 | mei.gmbh        | available | $36.56    | $36.56        | high           | low    | 3      | porkbun    |
 | nay.gmbh        | available | $45.99    | $45.99        | medium         | low    | 3      | namesilo   |
 | opt.gmbh        | available | $45.99    | $45.99        | high           | low    | 3      | namesilo   |
-| pad.gmbh        | available | $45.99    | $45.99        | high           | low    | 3      | namesilo   |
+| pad.gmbh        | available | $37.32    | $37.32        | high           | low    | 3      | dynadot    |
 | par.gmbh        | available | $35.20    | $35.20        | high           | low    | 3      | cloudflare |
-| pie.gmbh        | available | $45.99    | $45.99        | high           | low    | 3      | namesilo   |
 | raf.gmbh        | available | $45.99    | $45.99        | high           | low    | 3      | namesilo   |
 | raw.gmbh        | available | $45.99    | $45.99        | high           | low    | 3      | namesilo   |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,505 live domains                        |
+| 1,000-row public sample | 27,646 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GMBH One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GMBH One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
